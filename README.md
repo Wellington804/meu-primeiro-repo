@@ -1,3 +1,4 @@
 # meu-primeiro-repo
-Meu primeiro repositório criado na disciplina de APS \n
+Meu primeiro repositório criado na disciplina de APS 
+
 WELLINGTON PEREIRA
